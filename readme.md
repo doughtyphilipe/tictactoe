@@ -3,7 +3,8 @@
 TicTacToe is a simple Java game made for practice purposes.
 
 ## Preview
-![usage](https://github.com/doughtyphilipe/tictactoe/blob/main/tictactoe.gif)
+![tictactoe](https://user-images.githubusercontent.com/123315352/224512025-3460e44b-1c57-41ff-be53-e55b391c36ee.gif)
+
 
 
 ## Usage
